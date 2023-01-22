@@ -12,7 +12,7 @@ import { useEffect, useContext, useState } from "react";
 import { LoginContext } from "./components/ContextProvider/Context";
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
-export const URL="http://localhost:8010"
+export const URL="https://bulk-email-o4uq.onrender.com"
 
 function App() {
 
